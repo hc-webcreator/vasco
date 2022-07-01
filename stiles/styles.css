@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&family=Smooch&family=Splash&display=swap');
+
+.container.marketing {
+    margin: 50px;
+}
+
+.title-container {
+    margin: 25px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: 100px;
+}
+
+.carousel-container2 {
+    width: 100%;
+    height: 700px;
+    background-color: rgba(41, 41, 41, 0.384);
+    padding-top: 50px;
+    border: 2px solid black;
+}
+
+.featurette-heading.fw-normal.lh-1 {
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: 400%;
+}
+
+.lead {
+    font-family: 'Splash', cursive;
+    font-size: 50px;
+}
+
+#goodbye-text {
+    text-align: center;
+    font-family: 'Splash', cursive;
+    font-size: 45px;
+
+}
